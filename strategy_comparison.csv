@@ -1,0 +1,3 @@
+Strategy,Total Return (%),Annual Return (%),Sharpe Ratio,Max Drawdown (%),Trades,Win Rate (%)
+Mean Reversion,-100.0,-57.09,-0.841,-100.0,1083,43.39
+EMA Crossover,-39.29,-3.37,-0.184,-54.73,89,45.0
