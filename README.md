@@ -1,0 +1,1 @@
+# SOC_Algorithmic_Intraday_Trading
